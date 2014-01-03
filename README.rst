@@ -5,7 +5,7 @@ iNursery
 - Author: gbmhunter <gbmhunter@gmail.com> (`http://www.cladlab.com <http://www.cladlab.com/>`_)
 - Created: 2014/01/03
 - Last Modified: 2014/01/03
-- Version: v1.0.0.1
+- Version: v1.0.0.2
 - Company: CladLabs
 - Project: iNursery
 - Language: C++
@@ -22,7 +22,7 @@ iNursery
 Description
 ===========
 
-The repository for the iNursery, and temperature and light-controlled environment for eggs and small animals (see `here<http://cladlab.com/electronics/projects/inursery>`_ for more info). This repository contains the code running on the iNursery's Arduino Uno.
+The repository for the iNursery, and temperature and light-controlled environment for eggs and small animals (see `here <http://cladlab.com/electronics/projects/inursery>`_ for more info). This repository contains the code running on the iNursery's Arduino Uno.
 
 Installation
 ============
@@ -66,6 +66,7 @@ Changelog
 ======== ========== =============================================================================================
 Version  Date       Comment
 ======== ========== =============================================================================================
-v1.0.0.1 2013/01/03 Attempt at fixing hyperlinks in README.
+v1.0.0.2 2014/01/03 Second attempt at fixing hyperlinks in README.
+v1.0.0.1 2014/01/03 Attempt at fixing hyperlinks in README.
 v1.0.0.0 2014/01/03 Initial commit. Firmware works.
 ======== ========== =============================================================================================
