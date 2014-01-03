@@ -2,10 +2,10 @@
 iNursery
 ==============================================================
 
-- Author: gbmhunter <gbmhunter@gmail.com> (`http://www.cladlab.com<http://www.cladlab.com/>`_)
+- Author: gbmhunter <gbmhunter@gmail.com> (`http://www.cladlab.com <http://www.cladlab.com/>`_)
 - Created: 2014/01/03
 - Last Modified: 2014/01/03
-- Version: v1.0.0.0
+- Version: v1.0.0.1
 - Company: CladLabs
 - Project: iNursery
 - Language: C++
@@ -66,5 +66,6 @@ Changelog
 ======== ========== =============================================================================================
 Version  Date       Comment
 ======== ========== =============================================================================================
+v1.0.0.1 2013/01/03 Attempt at fixing hyperlinks in README.
 v1.0.0.0 2014/01/03 Initial commit. Firmware works.
 ======== ========== =============================================================================================
